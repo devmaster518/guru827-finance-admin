@@ -1,6 +1,8 @@
 # guru827-finance-admin
 
-Guru827 Finance Admin Dashboard using React + TailwindCSS
+> Guru827 Finance Admin Dashboard using React + TailwindCSS
+
+Visit https://guru827-finance-admin.vercel.app/
 
 ## Prerequisites
 
